@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class sum {
 
-    static int sum(){
+    int sum(){
         int a,b;
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a number");
@@ -16,8 +16,7 @@ public class sum {
     }
 
     static int sum2(int a, int b){
-        int c  = a+b;
-        return c;
+        return a+b;
     }
 
     public static void main(String[] args) {
