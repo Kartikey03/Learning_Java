@@ -1,12 +1,12 @@
 @FunctionalInterface // functional interfaces are those which only have one method in their interface
 interface test{
-    void faaltu();
+    void faaltu(int a);
 }
 public class LambdaClass {
     public static void main(String[] args) {
-        test obj = () -> {
-            System.out.println("hello world");
+        test obj = (a) -> {
+            System.out.println("hello world "+a+ " times");
         };
-        obj.faaltu();
+        obj.faaltu(5);
     }
 }
