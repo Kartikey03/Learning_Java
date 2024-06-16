@@ -1,3 +1,5 @@
+package Hackerrank;
+
 import java.util.Scanner;
 
 public class hackerrank2{

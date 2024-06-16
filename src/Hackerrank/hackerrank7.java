@@ -1,3 +1,5 @@
+package Hackerrank;
+
 import java.util.Calendar;
 
 public class hackerrank7 {

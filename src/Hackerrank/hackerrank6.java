@@ -1,3 +1,5 @@
+package Hackerrank;
+
 public class hackerrank6 {
     public static void main(String[] args) {
         int number = 123;
