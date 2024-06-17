@@ -14,7 +14,6 @@ public class Sol1_method2 {
                 patches++;
             }
         }
-
         return patches;
     }
 
