@@ -1,0 +1,4 @@
+Hello, World!
+This is a Java I/O example.
+Using BufferedReader and BufferedWriter.
+Reading from input.txt and writing to output.txt.
