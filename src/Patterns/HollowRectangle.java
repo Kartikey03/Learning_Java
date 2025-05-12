@@ -15,6 +15,7 @@ public class HollowRectangle {
                     System.out.print("\t");
                 }
             }
+
             System.out.println();
         }
     }
